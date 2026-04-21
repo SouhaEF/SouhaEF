@@ -82,7 +82,7 @@ Data Analyst with a MSc in Operations Research, specializing in **data analysis,
 - ## 📌 Featured Projects
 
 ### 🚍 Transport Optimization (Operations Research)
-![Repo](https://img.shields.io/badge/🔗_Repository-000?style=for-the-badge)(https://github.com/SouhaEF/transport-optimization)
+[![Repo](https://img.shields.io/badge/🔗_Repository-000?style=for-the-badge)](https://github.com/SouhaEF/transport-optimization)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CPLEX](https://img.shields.io/badge/CPLEX-FF6F00?style=for-the-badge)
 ![Optimization](https://img.shields.io/badge/Optimization-1E90FF?style=for-the-badge)
@@ -96,9 +96,9 @@ Data Analyst with a MSc in Operations Research, specializing in **data analysis,
 
 ### 📊 Data Analysis & Insights Project
 [![Repo](https://img.shields.io/badge/🔗_Repository-000?style=for-the-badge)](https://github.com/SouhaEF/data-analysis-project)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]
-[![EDA](https://img.shields.io/badge/EDA-4C72B0?style=for-the-badge)]
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-4C72B0?style=for-the-badge)
 
 - Performed **data cleaning, exploratory data analysis (EDA), and visualization**  
 - Identified trends and generated insights for decision-making  
@@ -108,8 +108,8 @@ Data Analyst with a MSc in Operations Research, specializing in **data analysis,
 
 ### 🌐 Web Scraping & Data Pipeline
 [![Repo](https://img.shields.io/badge/🔗_Repository-000?style=for-the-badge)](https://github.com/SouhaEF/web-scraping-pipeline)
-[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B4513?style=for-the-badge)]
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B4513?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - Built a **data collection pipeline** using web scraping techniques  
 - Handled anti-bot strategies and parsing challenges  
