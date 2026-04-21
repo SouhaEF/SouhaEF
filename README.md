@@ -1,5 +1,3 @@
-//## Hi there 👋
-
 # Hi, I'm Souhaïla 👋
 
 Operations Research (MSc) | Data Analyst | Optimization & Decision Support
