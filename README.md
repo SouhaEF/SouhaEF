@@ -2,10 +2,10 @@
 
 Operations Research (MSc) | Data Analyst | Optimization & Decision Support
 
+- ## 💫 About Me
+  
 I specialize in turning data into actionable insights to support decision-making. 
 With a background in Operations Research applied to public transport, I bring a strong foundation in optimization, data analysis, and problem-solving.
-
-- ## 🎯 Profile
 
 Data Analyst with a MSc in Operations Research, specializing in **data analysis, optimization, and decision support systems**.
 
@@ -136,11 +136,40 @@ Data Analyst with a MSc in Operations Research, specializing in **data analysis,
 
 ## 📫 Let's Connect
 
-- LinkedIn: www.linkedin.com/in/souhaïla-elfilali
-- Email: souhaila.elfilali@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souhaïla-elfilali) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souhaila.elfilali@gmail.com)
 
 ---
 
+<!--
+
+# 💫 About Me:
+I'm testing here
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/test) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/test) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/test) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/test) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:test) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SouhaEF&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=SouhaEF&theme=catppuccin_latte&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SouhaEF&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SouhaEF&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=SouhaEF&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+-->
 
 <!--
 **SouhaEF/SouhaEF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
