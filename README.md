@@ -127,11 +127,11 @@ Data Analyst with a MSc in Operations Research, specializing in **data analysis,
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SouhaEF&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SouhaEF&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username)
+![GitHub Streak](https://streak-stats.demolab.com?user=SouhaEF)
 
 ---
 
